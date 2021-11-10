@@ -2,8 +2,9 @@
 JS Day 3! 
 
 # HTML 
+- h2 header (with a span that holds a word with class"highlight")
 - a div with a class of "controls" 
-- three labels connected to three inputs: 
+- in the div: three labels connected to three inputs: 
     1. spacing: 
         - label for"spacing"
         - input id"spacing" type"range" name"spacing" min"10" max"200" value"10" data-sizing"px"
@@ -13,6 +14,8 @@ JS Day 3!
     3. base color 
         - label for"base"
         - input id"base" type"color" name"base" value"*pick a color*" 
+- image 
+
 # CSS
 - create three variables in CSS: styling, base, and blur 
 - use these variables on the image & the header
