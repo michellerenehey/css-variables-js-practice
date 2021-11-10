@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: 'Italiana', serif;
+    font-size: 30px;
+}
+
+.controls {
+    margin-bottom: 30px;
+}
+
+input {
+    width: 100px;
+}
