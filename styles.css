@@ -1,7 +1,7 @@
 :root {
     --base: #e0003c; 
     --spacing: 10px; 
-    --blur: 20px; 
+    --blur: 10px; 
 }
 
 img {
